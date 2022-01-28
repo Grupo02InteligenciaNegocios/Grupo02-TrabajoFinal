@@ -6,5 +6,4 @@ matplotlib
 numpy
 seaborn
 keras_metrics
-math
 tensorflow
