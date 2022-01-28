@@ -6,4 +6,4 @@ matplotlib
 numpy
 seaborn
 keras_metrics
-tensorflow
+tensorflow-cpu
